@@ -1,0 +1,11 @@
+Alpukat=30
+Anggur=40
+Apel=50
+Jambu=30
+Jeruk=100
+Mangga=75
+Melon=25
+Nanas=30
+Pepaya=25
+Semangka=20
+apel=0
